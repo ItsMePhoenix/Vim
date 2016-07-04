@@ -1,2 +1,2 @@
 # Vim
-my .vim folder and .vimrc
+my .vimrc
